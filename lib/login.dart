@@ -52,7 +52,7 @@ class _LoginpageState extends State<Loginpage> {
     children: [
       TextField(
         decoration: InputDecoration(
-          hintText: 'Username',
+          hintText: 'Nama user',
           border: OutlineInputBorder(borderRadius: BorderRadius.circular(18),
           borderSide: BorderSide.none
           ),
